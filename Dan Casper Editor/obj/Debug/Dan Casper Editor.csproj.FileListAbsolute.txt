@@ -1,0 +1,58 @@
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.exe.config
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.exe
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.pdb
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.csprojResolveAssemblyReference.cache
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan_Casper_Editor.Form1.resources
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan_Casper_Editor.Properties.Resources.resources
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.csproj.GenerateResource.Cache
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.exe
+D:\Dan\Documents\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.pdb
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.exe.config
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.exe
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.pdb
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan_Casper_Editor.Form1.resources
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan_Casper_Editor.Properties.Resources.resources
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.csproj.GenerateResource.Cache
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.exe
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.pdb
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan_Casper_Editor.About.resources
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.exe.manifest
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.application
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.exe.manifest
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.application
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\atari800winplus.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\Default.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\g2f.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\gray.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\green.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\jakub.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\laoo.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\olivierp.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\real.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2012\Projects\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\xformer.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.exe.config
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.exe
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.pdb
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan_Casper_Editor.About.resources
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan_Casper_Editor.Form1.resources
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan_Casper_Editor.Properties.Resources.resources
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.csproj.GenerateResource.Cache
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\atari800winplus.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\Default.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\g2f.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\gray.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\green.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\jakub.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\laoo.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\olivierp.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\real.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Palette\xformer.act
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\dane.dce
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.exe.manifest
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.application
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.exe
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\bin\Debug\Dan Casper Editor.pdb
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.exe.manifest
+C:\Users\Dan\Moje dokumenty\Visual Studio 2013\Projects\Atari\Dan Casper Editor\Dan Casper Editor\obj\Debug\Dan Casper Editor.application
